@@ -5,7 +5,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/xdalp/application-deployment.git
+    repoURL: https://github.com/xdalp/application-deployment
     targetRevision: main
     path: deployment
   destination:
